@@ -1,0 +1,7 @@
+VHDL design to test image controler 640*480*1b
+
+Dependancies :
+- IP giovanni card
+- IP image_controler_640_480_1b
+
+#EOF
